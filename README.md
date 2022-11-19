@@ -18,7 +18,7 @@
 
 ## About <a name = "about"></a>
 
-This was a 5 days coding challenge I joined that tackled the most basic concepts for developing a responsive website using ___HTML5___, ___CSS___ and ___JAVASCRIPT___, in order to create a simple but responsive website using headers, lists, images, page rezising across devices and event handling.
+This was a 5 days coding challenge I joined that tackled the most basic concepts for developing a responsive website using ___HTML5___, ___CSS___ and ___JAVASCRIPT___, in order to create a simple but responsive website using headers, lists, images, page resizing across devices and event handling.
 
 ## Documentation <a name = "doc"></a>
 
