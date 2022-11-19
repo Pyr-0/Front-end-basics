@@ -1,6 +1,9 @@
 <div align=center>
 
 <img src="https://giphy.com/embed/436hhtZJQAT86nomhG" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></img><p><a href="https://giphy.com/gifs/Veeam-developing-programing-veeam-436hhtZJQAT86nomhG">via GIPHY</a></p>
+
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/436hhtZJQAT86nomhG" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/Veeam-developing-programing-veeam-436hhtZJQAT86nomhG">via GIPHY</a></p>
+
 <h1 style="color:gray">The basics of Front end development</h1>
   
 <h1 style="background-image: linear-gradient(to left, violet, indigo, blue, green, yellow)"></h1>
