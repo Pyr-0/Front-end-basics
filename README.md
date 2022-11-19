@@ -2,7 +2,7 @@
 
 <h1 style="color:gray">The basics of Front end development</h1>
   
-<h1 style="background-image: linear-gradient(to left, violet, indigo, blue, green, yellow)"></h1>
+<div style="background-image: linear-gradient(to left, violet, indigo, blue, green, yellow)"></div>
 
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
