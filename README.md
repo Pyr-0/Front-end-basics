@@ -21,8 +21,9 @@ This was a 5 days coding challenge that tackled the most basic concepts for deve
 
 ## Documentation <a name = "doc"></a>
 
-Here are the documentation files: 
-[CSS](./Documentation/CSS.md) </li>
-[HTML](./Documentation/HTML.md) </li>
-JAVASCRIPT](./Documentation/JAVASCRIPT.md) </li>
+Here are the documentation files: /
+
+- [CSS](./Documentation/CSS.md) </li>
+- [HTML](./Documentation/HTML.md) </li>
+- [JAVASCRIPT](./Documentation/JAVASCRIPT.md) </li>
 
