@@ -1,8 +1,7 @@
 <div align=center>
 
-  <img src="https://media.giphy.com/media/436hhtZJQAT86nomhG/giphy.gif">
-  
 <h1 style="color:gray">The basics of Front end development</h1>
+<img src="https://media.giphy.com/media/436hhtZJQAT86nomhG/giphy.gif"></img>
   
 <div style="background-image: linear-gradient(to left, violet, indigo, blue, green, yellow)"></div>
 
